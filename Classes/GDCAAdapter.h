@@ -11,16 +11,6 @@
 
 @interface GDCAAdapter : NSObject
 
-//适配字体大小
-CGFloat adjustFont(CGFloat font);
-
-//适配宽度
-CGFloat suitW(CGFloat width);
-
-//适配高度
-CGFloat suitH(CGFloat height);
-
-//是否iPhone X
 BOOL isIphoneX(void);
 
 // safe area
