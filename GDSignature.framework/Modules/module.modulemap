@@ -1,0 +1,6 @@
+framework module GDSignature {
+  umbrella header "GDSignature.h"
+
+  export *
+  module * { export * }
+}
