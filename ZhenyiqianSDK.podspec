@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "ZhenyiqianSDK"
-  s.version      = "0.0.7"
+  s.version      = "0.0.8"
   s.summary      = "A CA SDK of GDCA"
 
   # This description is used to generate tags and improve search results.
@@ -115,7 +115,7 @@ Pod::Spec.new do |s|
   #  the lib prefix of their name.
   #
 
-   s.framework  = "GDSignature.framework"
+   s.framework  = "GDSignature"
   # s.frameworks = "SomeFramework", "AnotherFramework"
 
   # s.library   = "iconv"
